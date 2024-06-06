@@ -1,9 +1,9 @@
 {
-  "name": "db-IO25-theme3",
+  "name": "db-IO25-theme3-lab6",
   "version": "2.1.0",
   "main": "index.js",
   "description": "Databases course work template",
-  "repository": "https://github.com/IO25SavelievArtem/db-IO25-theme3",
+  "repository": "https://github.com/IO25SavelievArtem/db-IO25-theme3-lab6",
   "author": "IO-25 Group 3",
   "license": "ECL 2.0",
   "scripts": {
